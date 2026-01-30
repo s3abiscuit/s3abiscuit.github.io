@@ -1,0 +1,19 @@
+title: s3abiscuit's Blog
+author: Xu Chen
+description: > # this means to ignore newlines until "baseurl:"
+  Personal blog and documentation site for Tree-树形索引.
+  Sharing thoughts on development, design, and more.
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Optional: Add social links for the footer
+github_username: s3abiscuit
+
+# Exclude these files from being treated as posts
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
