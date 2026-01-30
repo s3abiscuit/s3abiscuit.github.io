@@ -1,0 +1,14 @@
+- name: GitHub
+  url: https://github.com
+  descr: Code hosting platform
+- name: Jekyll
+  url: https://jekyllrb.com
+  descr: Static site generator
+# 在下面继续添加你的朋友
+- name: FaiChou's blog
+  url: https://faichou.com
+  descr: a person who likes swimming and coding
+
+- name: Vincent's Notes
+  url: https://missuo.me
+  descr: Vincent's Notes
