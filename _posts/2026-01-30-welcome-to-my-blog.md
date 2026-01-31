@@ -12,7 +12,7 @@ This is my first post using the **Jekyll** on GitHub Pages!
 - Design process and inspiration
 
 ### my projects
-- [Tree-树形索引](https://apps.apple.com/us/app/tree-meta-data-for-indexing/id6757470237)  
+- [Tree-树形索引](https://apps.apple.com/app/id6757470237)  
 
 
 Stay tuned!
