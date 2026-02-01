@@ -170,7 +170,7 @@ nano ~/Library/LaunchAgents/com.user.clean-dmg.plist
     <key>ProgramArguments</key>
     <array>
         <string>/bin/zsh</string>
-        <string>/Users/你的用户名/Scripts/clean_dmg.sh</string>
+        <string>/Users/你的用户名/dev/Scripts/clean_dmg.sh</string>
     </array>
     
     <key>StartCalendarInterval</key>
