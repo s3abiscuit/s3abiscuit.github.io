@@ -1,0 +1,40 @@
+---
+---
+
+@import "minima";
+
+/* Tag 样式 */
+.post-tags {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.post-tags .tag {
+  display: inline-block;
+  background-color: #e8f4f8;
+  color: #0366d6;
+  padding: 2px 10px;
+  margin-right: 6px;
+  margin-bottom: 4px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  font-weight: 500;
+}
+
+.post-tags .tag:hover {
+  background-color: #0366d6;
+  color: white;
+}
+
+/* 暗色模式支持 */
+@media (prefers-color-scheme: dark) {
+  .post-tags .tag {
+    background-color: #21262d;
+    color: #58a6ff;
+  }
+  
+  .post-tags .tag:hover {
+    background-color: #58a6ff;
+    color: #0d1117;
+  }
+}

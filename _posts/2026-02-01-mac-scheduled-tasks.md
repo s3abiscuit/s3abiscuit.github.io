@@ -3,6 +3,7 @@ layout: post
 title: "Mac 设置定时任务"
 date: 2026-02-01 08:00:00 +0800
 categories: tutorial
+tags: [macOS, launchd, cron, 自动化]
 permalink: /mac-scheduled-tasks/
 ---
 
