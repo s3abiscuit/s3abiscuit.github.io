@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "WordRoot 使用条款"
+title: "词根宝 使用条款"
 date: 2026-02-04 15:55:29 +0800
 categories: legal
 permalink: /wordroot_terms_of_service/
 ---
 
-<h1>WordRoot 使用条款</h1>
+<h1>词根宝 使用条款</h1>
 <p>最后更新日期：2026年2月4日</p>
 
-<p>欢迎使用 WordRoot（以下简称"本应用"）。在使用本应用及其内购服务之前，请仔细阅读以下条款。使用本应用即表示您同意接受这些条款的约束。</p>
+<p>欢迎使用 词根宝（以下简称"本应用"）。在使用本应用及其内购服务之前，请仔细阅读以下条款。使用本应用即表示您同意接受这些条款的约束。</p>
 
 <h2>1. 服务说明</h2>
-<p>WordRoot 是一款英语词根学习应用，提供以下服务：</p>
+<p>词根宝 是一款英语词根学习应用，提供以下服务：</p>
 <ul>
     <li><strong>免费内容：</strong>约 275 个基础词根及其例句</li>
     <li><strong>付费内容：</strong>通过一次性内购解锁约 30 个扩展词根</li>
@@ -169,8 +169,8 @@ permalink: /wordroot_terms_of_service/
     <p>如果您对本使用条款有任何疑问或建议，请通过以下方式联系我们：</p>
     <ul>
         <li><strong>邮箱：</strong><a href="mailto:syjefb2@outlook.com">syjefb2@outlook.com</a></li>
-        <li><strong>应用名称：</strong>WordRoot - 英语词根学习</li>
-        <li><strong>App Store：</strong><a href="https://apps.apple.com/app/id6757470237" target="_blank">查看应用</a></li>
+        <li><strong>应用名称：</strong>词根宝 - 英语词根学习</li>
+        <li><strong>App Store：</strong><a href="https://apps.apple.com/app/id6758503888" target="_blank">查看应用</a></li>
     </ul>
     <p style="margin-top: 15px; font-size: 14px; color: #86868b;">我们通常会在 1-3 个工作日内回复您的邮件。</p>
 </div>
